@@ -70,5 +70,6 @@ I'd love to hear from you.
 <a href="https://instagram.com/lateral_move" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://t.me/ocelloid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
 <a href="https://vk.com/ocelloid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="млщтефлеу" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@OcelloidJS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1920px-YouTube_full-color_icon_%282017%29.svg.png" alt="млщтефлеу" height="30" width="40" /></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=ocelloid&label=Profile%20views&color=0e75b6&style=flat" alt="ocelloid" />
