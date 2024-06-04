@@ -2,24 +2,16 @@
 
 **`Digital Craftsman (Developer/Designer/Storyteller)`**
 
-- 🔭 I’m currently working on [Vampire: The Masquerade LARP site](https://vtm.su)
+🧛‍♂️ I'm currently diving deep into the world of game development with my own [Vampire: The Masquerade LARP site](https://vtm.su) web site.
 
-- 🌱 I’m currently learning **Three.js and GSAP**
+🎨 In my quest for knowledge, I'm exploring the realms of Three.js and GSAP, aiming to master these powerful tools.
 
-- 👨‍💻 My own website is available at [ocelloid.com](ocelloid.com)
+🌐 My personal is [ocelloid.com](ocelloid.com). Feel free to explore.
 
-- 💬 Ask me about **React, TypeScript, Next.js**
+🗣 If you have any questions or just want to chat, I'm always down to discuss topics like React, TypeScript, and Next.js. Hit me up on Twitter at [ocelloidfa](https://twitter.com/ocelloidfa), Telegram at [ocelloid](https://t.me/ocelloid) or shoot me an email at ocelloid@gmail.com.
+I'd love to hear from you.
 
-- 📫 You can reach me by emailing **ocelloid@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ocelloidfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ocelloidfa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ocelloid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ocelloid" height="30" width="40" /></a>
-<a href="https://instagram.com/lateral_move" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lateral_move" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools I use:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/></a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/></a> 
@@ -72,4 +64,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocelloid&show_icons=true&locale=en&theme=transparent" alt="ocelloid" style="height: 180px" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ocelloid&label=Profile%20views&color=0e75b6&style=flat" alt="ocelloid" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ocelloidfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ocelloidfa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ocelloid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/lateral_move" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://t.me/ocelloid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="40" /></a>
+<a href="https://vk.com/ocelloid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="млщтефлеу" height="30" width="40" /></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=ocelloid&label=Profile%20views&color=0e75b6&style=flat" alt="ocelloid" />
