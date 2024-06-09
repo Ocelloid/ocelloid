@@ -63,6 +63,8 @@ I'd love to hear from you.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ocelloid&show_icons=true&locale=en&theme=transparent" alt="ocelloid" style="height: 180px" /></p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/666556d4e724e39e4d380464?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cfull-stack)](https://roadmap.sh)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ocelloidfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ocelloidfa" height="30" width="40" /></a>
