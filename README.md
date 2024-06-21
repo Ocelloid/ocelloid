@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer/Storyteller)`**
 
-🧛‍♂️ I'm currently diving deep into the world of game development with my own [Vampire: The Masquerade LARP](https://vtm.su) web site.
+🧛‍♂️ I'm currently diving deep into the world of game development with my own <a href="https://vtm.su" target="_blank" rel="noreferrer">Vampire: The Masquerade LARP</a> web site.
 
 🎨 In my quest for knowledge, I'm exploring the realms of Three.js and GSAP, aiming to master these powerful tools.
 
