@@ -8,7 +8,7 @@
 
 🌐 My personal playground is [ocelloid.com](https://ocelloid.com). Feel free to explore.
 
-🗣 If you have any questions or just want to chat, I'm always down to discuss topics like React, TypeScript, and Next.js. Hit me up on Twitter at [ocelloidfa](https://twitter.com/ocelloidfa), Telegram at [ocelloid](https://t.me/ocelloid) or shoot me an email at ocelloid@gmail.com.
+🗣 If you have any questions or just want to chat, I'm always down to discuss topics like React, TypeScript, and Next.js. Hit me up on Twitter at [ocelloidjs](https://twitter.com/ocelloidjs), Telegram at [ocelloid](https://t.me/ocelloid) or shoot me an email at ocelloid@gmail.com.
 I'd love to hear from you.
 <h3 align="left">My preferred tech stack</h3>
 <p align="left">
