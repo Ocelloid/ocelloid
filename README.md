@@ -19,6 +19,7 @@ I'd love to hear from you.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32" height="32"/></a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/></a>  
   <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="vercel" width="32" height="32"></a>
+  <a href="https://gsap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="32" height="32"></a>
 </p>
 <h3 align="left">Languages and tools I use</h3>
 
@@ -52,6 +53,8 @@ I'd love to hear from you.
 </p>
 
 <p align="left"> 
+  <a href="https://gsap.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="32" height="32"></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="32" height="32"></a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="32" height="32"/></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/></a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32" height="32"/></a> 
