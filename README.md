@@ -10,7 +10,16 @@
 
 🗣 If you have any questions or just want to chat, I'm always down to discuss topics like React, TypeScript, and Next.js. Hit me up on Twitter at [ocelloidfa](https://twitter.com/ocelloidfa), Telegram at [ocelloid](https://t.me/ocelloid) or shoot me an email at ocelloid@gmail.com.
 I'd love to hear from you.
-
+<h3 align="left">My preferred tech stack:</h3>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/></a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/></a>   
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="32" height="32"/></a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/></a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="32" height="32"/></a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/></a>  
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"><svg aria-label="Vercel logomark" height="64" role="img" viewBox="0 0 74 64" style="width: auto; overflow: visible;"><path d="M37.5896 0.25L74.5396 64.25H0.639648L37.5896 0.25Z" fill="black"></path></svg></a>
+</p>
 <h3 align="left">Languages and tools I use:</h3>
 
 <p align="left"> 
@@ -50,6 +59,7 @@ I'd love to hear from you.
 </p>
 
 <p align="left"> 
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"><svg aria-label="Vercel logomark" height="64" role="img" viewBox="0 0 74 64" style="width: auto; overflow: visible;"><path d="M37.5896 0.25L74.5396 64.25H0.639648L37.5896 0.25Z" fill="black"></path></svg></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/></a>
